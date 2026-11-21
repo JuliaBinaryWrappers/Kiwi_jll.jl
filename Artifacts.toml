@@ -1,0 +1,156 @@
+[[Kiwi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be5de0f9813ef8f6fdecb90b4da21ab6c9aeacc6"
+libc = "glibc"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "929015f8c35a7dbd283ccd75504b29a9efbe0b1c1c6bf0bcd141c7e3600ec037"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.i686-linux-gnu-cxx11.tar.gz"
+[[Kiwi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea573b64700e5a56af13709bdedbb65436c3173b"
+libc = "glibc"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "8be5d2f05972329e8233b8372420aaa6c042e3313cc54689fa6763430d6e9c1a"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Kiwi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be810d42fcf4e536cafdb41a74af446d65d97c1c"
+libc = "glibc"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "6856a114517709249aad0c8acc40f8368986a7cf33e1fbbc5687498b968f6491"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Kiwi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f895d5e872fae07ee58636e89aa423130f93cf68"
+libc = "glibc"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "f0de7690c9deb28ce034f7c55ccbbc6061c9da3017e3586eea4120acb0e71d3e"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Kiwi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f51fa7592bdfd177cc32d285ae46cf4467e4b35"
+libc = "glibc"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "6a120ddf66ebab1ffc3550696b95dbf6765f91946e0a392e44fcbcd852c5cb02"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Kiwi]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8822b09be10b48c4b31d8ec31d6fb44d9ea4955f"
+libc = "glibc"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "d0531286b47721d6d79fe378fefda38942a5d0a71c7a2d7a01aea817ed7f541a"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[Kiwi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65e873f200d35763a6420c1e0bcd75a4df1b9215"
+libc = "musl"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "cb846c25332601ec2a177cbfb70562a5f85351a3498381ef8c805a276ff781bd"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.i686-linux-musl-cxx11.tar.gz"
+[[Kiwi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a19636bcb2855835e78fa71c7d32844ea5f7b9fe"
+libc = "musl"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "920c17e18126a2a756b579a0da2e467d95209f7f70f9a636cf5a588ea46fd6a1"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Kiwi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4da0767e488a1d181eb1a6410e26be3f52069921"
+libc = "musl"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "2202ded513e1c84e41dc756dbd055379756541e222443155e54984de9c7cd9c7"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Kiwi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67acc964628d8fe3f8ed350d6c8c6e5ab58534a7"
+libc = "musl"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "bd58b045c6add35e980ca7ad82019e4ea5578fb953f57ac43ceffdb30ea6dace"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Kiwi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5af9df9ffe49c1656b85bf12c6f91d8c0951b2db"
+libc = "musl"
+os = "linux"
+
+    [[Kiwi.download]]
+    sha256 = "01f0db0747441049611ac92f368f32133e2f56838d397dfa917cbcc112dfdc26"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Kiwi]]
+arch = "x86_64"
+git-tree-sha1 = "bb5307d112c293fc48ac7da4dc822d9a5bf50f7d"
+os = "macos"
+
+    [[Kiwi.download]]
+    sha256 = "f01c196787cf0e00febd6e289cc8239637e464c7bb163b2e5b29e10f1f40aaf6"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.x86_64-apple-darwin.tar.gz"
+[[Kiwi]]
+arch = "aarch64"
+git-tree-sha1 = "27f6a922e7d5f74b6e61bf194b8a11554655b102"
+os = "macos"
+
+    [[Kiwi.download]]
+    sha256 = "02891e103709e2e5d0d9241d69bf22e377e384a2319bc56367c541bd0594b046"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.aarch64-apple-darwin.tar.gz"
+[[Kiwi]]
+arch = "x86_64"
+git-tree-sha1 = "251349d197e326fad2cca2c7044a9849ce196320"
+os = "freebsd"
+
+    [[Kiwi.download]]
+    sha256 = "e6e870a5c0a73afad52cc5a687671294bbbeae714da1dfed37a57743b766d9c5"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.x86_64-unknown-freebsd.tar.gz"
+[[Kiwi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1863477fb3d9a0761d06865be974f7bb1df01c16"
+os = "windows"
+
+    [[Kiwi.download]]
+    sha256 = "14e4d48a76ba942baaced5d3cef22d5a71d411d66e2656511ab975925a4eea26"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Kiwi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc6dd0e8bdd15194b80f39ca09596bb9e603aca5"
+os = "windows"
+
+    [[Kiwi.download]]
+    sha256 = "a67214f1684a9175a23dfd3b435e16f241fc9da9c8af34764e6280a550f285d5"
+    url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.x86_64-w64-mingw32-cxx11.tar.gz"

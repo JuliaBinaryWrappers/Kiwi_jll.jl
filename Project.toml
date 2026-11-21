@@ -1,0 +1,22 @@
+version = "0.25.0+0"
+name = "Kiwi_jll"
+uuid = "d56183ad-70ff-54b2-8f58-4adb2e1e897e"
+
+[deps]
+mimalloc_jll = "38cef826-3163-5c31-a333-3957420b3fb7"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+CPUInfo_jll = "48a17e46-e8cd-5edf-9ac6-c264fe76544e"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+StreamVByte_jll = "90af1822-8dd1-5078-b228-f487b1f02c31"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+
+[compat]
+mimalloc_jll = "3.5.3"
+Libdl = "< 0.0.1, 1"
+julia = "1.9"
+JLLWrappers = "1.7.0"
+CPUInfo_jll = "0.0.20260415"
+Artifacts = "< 0.0.1, 1"
+StreamVByte_jll = "2.0.0"
+CompilerSupportLibraries_jll = "1.0.2"
