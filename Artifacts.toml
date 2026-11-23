@@ -139,18 +139,18 @@ os = "freebsd"
 [[Kiwi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1863477fb3d9a0761d06865be974f7bb1df01c16"
+git-tree-sha1 = "93678f804499941a6bdfc52a2d173d66ecbe44d2"
 os = "windows"
 
     [[Kiwi.download]]
-    sha256 = "14e4d48a76ba942baaced5d3cef22d5a71d411d66e2656511ab975925a4eea26"
+    sha256 = "e83ded1afc6d66728c6d1b2654f08ac1dc564f4f2c1460ba0a18347500cd353e"
     url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.i686-w64-mingw32-cxx11.tar.gz"
 [[Kiwi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc6dd0e8bdd15194b80f39ca09596bb9e603aca5"
+git-tree-sha1 = "4aeea1f29d186aaa281713d1dede75baaddd9472"
 os = "windows"
 
     [[Kiwi.download]]
-    sha256 = "a67214f1684a9175a23dfd3b435e16f241fc9da9c8af34764e6280a550f285d5"
+    sha256 = "67e1ca12283df7935c6a3e49a0c370eab53c58ca29e36422830f922ac4996082"
     url = "https://github.com/JuliaBinaryWrappers/Kiwi_jll.jl/releases/download/Kiwi-v0.25.0+0/Kiwi.v0.25.0.x86_64-w64-mingw32-cxx11.tar.gz"

@@ -14,7 +14,7 @@ CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 [compat]
 mimalloc_jll = "3.5.3"
 Libdl = "< 0.0.1, 1"
-julia = "1.9"
+julia = "1.10"
 JLLWrappers = "1.7.0"
 CPUInfo_jll = "0.0.20260415"
 Artifacts = "< 0.0.1, 1"
